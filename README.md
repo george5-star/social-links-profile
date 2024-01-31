@@ -1,30 +1,59 @@
-# React + TypeScript + Vite
+# Frontend Mentor - Social links profile solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+### The challenge
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Users should be able to:
 
-- Configure the top-level `parserOptions` property like this:
+- See hover and focus states for all interactive elements on the page
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### Screenshot
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Project Screenshot](./src/assets/images/social-link-profile.png)
+
+### Links
+
+- Solution URL: [Solution repo](https://github.com/george5-star/social-links-profile)
+- Live Site URL: [Live preview](https://social-links-profile-gamma.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [TypeScript](https://www.typescriptlang.org/) - TypeScript
+- [Tailwind CSS](https://tailwindcss.com/docs) - Tailwind CSS
+
+### What I learned
+
+I learned how to hosting react projects using vercel.
+
+### Continued development
+
+React, TypeScript, TailwindCSS.
+
+### Useful resources
+
+- [Tailwind Docs](https://tailwindcss.com/docs) - This is the official tailwind docs I used for reference.
+
+## Author
+
+- Website - [www.georgeasiedu.tech](https://www.georgeasiedu.tech)
+- Frontend Mentor - [@george5-star](https://www.frontendmentor.io/profile/george5-star)
+- Twitter - [@george5_star](https://www.twitter.com/george5_star)
